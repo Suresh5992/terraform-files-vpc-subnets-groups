@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #################################################################
-#Author : Mohammed Aseem - YOUTUBE CHANNEL - CLOUDASEEM
+ 
 #This will install Nginx , Jenkins and Docker and Sonarqube and trivy
 ####################################################################
 
